@@ -2,3 +2,4 @@
 django app with models 
 
 
+![Models admin site](modelsadminpanel.png)
